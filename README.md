@@ -328,7 +328,6 @@ Kịch bản:
 ├── product_detail.php         # Chi tiết sản phẩm
 ├── register.php               # Đăng ký
 ├── waf_debug.php              # Trang kiểm tra trạng thái WAF
-├── DEMO_SCRIPT.md             # Kịch bản demo ngắn
 └── README.md                  # Tài liệu dự án
 ```
 ### Checklist trước khi gửi
