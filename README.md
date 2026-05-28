@@ -329,7 +329,6 @@ Kịch bản:
 ├── register.php               # Đăng ký
 ├── waf_debug.php              # Trang kiểm tra trạng thái WAF
 ├── DEMO_SCRIPT.md             # Kịch bản demo ngắn
-├── DEMO_SCOPE.md              # Tài liệu giải thích phạm vi chứng minh của demo
 └── README.md                  # Tài liệu dự án
 ```
 
