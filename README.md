@@ -331,29 +331,6 @@ Kịch bản:
 ├── DEMO_SCRIPT.md             # Kịch bản demo ngắn
 └── README.md                  # Tài liệu dự án
 ```
-
-## Hướng Dẫn Đóng Góp
-
-Dự án phục vụ mục tiêu học tập và minh họa bảo mật. Khi đóng góp, hãy ưu tiên tính rõ ràng, dễ kiểm chứng và an toàn.
-
-### Quy trình đề xuất
-
-1. Fork hoặc tạo branch mới.
-2. Mô tả rõ vấn đề cần sửa hoặc tính năng cần thêm.
-3. Không commit thông tin nhạy cảm như mật khẩu, token, file `.env`, database dump thật.
-4. Kiểm tra các luồng chính: đăng nhập, truy cập sản phẩm, dashboard WAF, payload demo.
-5. Tạo pull request với mô tả ngắn gọn.
-
-### Quy ước commit
-
-Ví dụ:
-
-```text
-docs: update README for cloud WAF demo
-fix: sanitize database configuration
-feat: add WAF attack classification note
-```
-
 ### Checklist trước khi gửi
 
 - Không có credential thật trong source code.
