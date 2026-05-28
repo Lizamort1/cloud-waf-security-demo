@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+
+# Local/runtime data
+waf/cache/
+uploads/
+temp.txt
+assets/*.sql
+
+# Submitted/reference artifacts and generated extraction text
+*.docx
+*.pdf
+parsed_*.txt
+tika.jar
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+*.bak
+*.bak2
+*.bak.codex-session-*
